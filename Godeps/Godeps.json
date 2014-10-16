@@ -1,0 +1,10 @@
+{
+	"ImportPath": "github.com/yudoufu/go-hatena-bookmark-push",
+	"GoVersion": "go1.3.2",
+	"Deps": [
+		{
+			"ImportPath": "github.com/garyburd/go-oauth/oauth",
+			"Rev": "3b723ab4b7bd12769c5a3b3de84dbf03e51e4fbb"
+		}
+	]
+}
